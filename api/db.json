@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Stream Mark I",
+      "description": "First streaming",
+      "userId": "107634219745845002683",
+      "id": 1
+    },
+    {
+      "title": "Stream Mark II",
+      "description": "Get some more views",
+      "userId": "107634219745845002683",
+      "id": 2
+    },
+    {
+      "title": "Stream Mark III",
+      "description": "Keep on going!",
+      "userId": "107634219745845002683",
+      "id": 3
+    }
+  ]
+}
